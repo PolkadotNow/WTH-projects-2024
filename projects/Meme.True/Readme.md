@@ -60,6 +60,21 @@ Use this section to document your daily updates during the hackathon.
 - **Challenges**:  
   - Creating Zeitgeist marketplace discretely, and behind the scenes so users don't realise they are in a web3 dapp.
 
+## Day 4 (30/11/2024):
+- **Achievements**:  
+   - Major UI changes to make the UI/UX better, and smoother and more intuitive.
+   - Fixed the Wallet Caching error.
+- **Challenges**:  
+  - Creating Zeitgeist marketplace discretely, and behind the scenes so users don't realise they are in a web3 dapp.
+
+## Day 5 (01/12/2024):
+- **Achievements**:  
+  - Integrated Zeitgeist and started creating market and poolIds.
+  - Worked on UI/UX smoother to work with. 
+- **Challenges**:  
+  - Since Zeitgeist's SDK is a little old and not updated right now, I would have to shift to Moonbeam contract. 
+  Working on this
+
 ---
 
 ## How to Run Locally
