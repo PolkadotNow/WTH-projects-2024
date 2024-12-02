@@ -8,7 +8,7 @@
 
 ## Demo & Links
 
-- **Live Demo**: [Insert link here]  
+- **Live Demo**: https://pixel-proof-polkadot.vercel.app/ 
 - **GitHub Repository**: (https://github.com/SiddharthManjul/PixelProof)  
 - **Video Demo**: [Insert link here]  
 
@@ -68,7 +68,7 @@ Use this section to document your daily updates during the hackathon.
 ### Steps
 ```bash
 # Clone the repository
-git clone https://github.com/SiddharthManjul/PixelProof.git
+git clone https://github.com/SiddharthManjul/PixelProofPolkadot.git
 cd PixelProof
 
 # Install dependencies
