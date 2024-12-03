@@ -75,6 +75,21 @@ Use this section to document your daily updates during the hackathon.
   - Since Zeitgeist's SDK is a little old and not updated right now, I would have to shift to Moonbeam contract. 
   Working on this
 
+  ## Day 6 (02/12/2024):
+- **Achievements**:  
+  - Shifted to Moonbeam's testnet Moonbase alpha.
+  - Deployed to vercel.
+  - Started full scale integration.
+- **Challenges**:  
+  - Make a cache system for True Network and make it work.
+
+  ## Day 7 (03/12/2024):
+- **Achievements**:  
+  - Making the UI/UX better, and working on the relayer.
+  - Made the relayer for now. 
+- **Challenges**:  
+  - Showing the result of each template.
+
 ---
 
 ## How to Run Locally
@@ -93,3 +108,8 @@ npm install
 
 # Start the application
 npm start
+```
+
+## Deploy Link
+
+https://memetrue.vercel.app/
