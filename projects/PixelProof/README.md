@@ -58,12 +58,13 @@ Use this section to document your daily updates during the hackathon.
 - Achievements: Integrated True Network SDK, Editor and close to live the project.
 - Challenges: Integrating Editor was also tough due to the Versions.
 
+### Day 6 02/12/2024:
+- Achievements: Finalized MVP is live.
+- Challenges: Editor setup was not easy to integrate because Server Side Rendering is not involved.
+
 ---
 
 ## How to Run Locally
-
-### Prerequisites
-- List required software or libraries (e.g., Node.js, Rust, Polkadot.js extension).
 
 ### Steps
 ```bash
