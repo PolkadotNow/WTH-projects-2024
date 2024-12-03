@@ -112,4 +112,4 @@ npm start
 
 ## Deploy Link
 
-https://meme-true.vercel.app/
+https://memetrue.vercel.app/
