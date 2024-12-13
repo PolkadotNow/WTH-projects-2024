@@ -26,7 +26,7 @@
 
   
 
--  **Live Demo**: [Insert link here]
+-  **Live Demo**: [DotCade](https://www.dotcade.fun/)
 
 -  **GitHub Repository**: https://github.com/prathamesh-mutkure/dotcade-polkadot
 
@@ -129,14 +129,43 @@ DotCade also provides SDKs for web2 developers to build and launch their apps wi
   - Working with Ink
 
 
+### Day 5 (1/12/2024):
+- Achievements:
+  - Integrated True Network.
+  - Fixed State and DOM issues with Ruffle.
+  - Added Google Analytics.
+  - Integrated Kilt and Spooran
+  - Added 10+ games and content
+- Challenges:
+  - Finding games.
+  - Setting up Spooran Test wallet
+
+
+### Day 6 (2/12/2024):
+- Achievements:
+  - UI Revamped.
+  - Added Profile Page.
+  - Mobile Responsiveness.
+  - Full Screen Support for games
+  - Integrated with Indexer
+- Challenges:
+  - Working with Indexer.
+  - Deriving formulas for user and game score
+
+
+### Day 7 (3/12/2024):
+- Achievements:
+  - Pitch Prepared.
+  - Bought Domain.
+- Challenges:
+  - Fixing issues with Database
+
+
 ---
 
 
-  
-
 ## How to Run Locally
 
-  
 
 ### Prerequisites
 
